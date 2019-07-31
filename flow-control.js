@@ -1,4 +1,4 @@
-function if (12>) {you are a teenager()
+function basicTeenager(13) {
 
 }
 
